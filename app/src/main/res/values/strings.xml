@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="details">Details</string>
+    <string name="back">BACK</string>
+    <string name="typical_image_of_animal">Typical image of animal</string>
+    <string name="first_description"> Hedgehog is one of the 9 genera of mammals of the Hedgehog family. In Ukraine, the white-bellied hedgehog is naturally widespread throughout the territory, and the eared hedgehog is found in some places in the east of Ukraine. In addition to the natural inhabitants, the European hedgehog can be kept as a garden animal, and the dwarf African hedgehog can be kept as a pet. </string>
+    <string name="second_description"> The nightingale bird is a real celebrity. No other feathered creature has been dedicated to so many poems and songs. The wonderful voice of this little creature informs people about spring, and if you hear strange trills, know that it is warm! The nightingale is an ordinary bird, not distinguished by its remarkable appearance and beauty in general, but bird lovers dream of having such a pet. Lets consider the description of the species, learn all the most interesting things about it. </string>
+    <string name="third_description"> Sciurus, or squirrel (Sciurus) is a genus of rodents of the Sciurus family. The species is adapted to life in trees. The genus includes many species common in the forests of Europe, Asia and America. Verks belong to the group of non-mouse-like rodents. Representatives of the genus are forest dwellers that feed mainly on seeds and fruits. They are mainly diurnal and spend most of their time in trees, occasionally descending to the ground in search of food. They usually build their nests in the form of a spherical structure of branches and leaves in tree cavities or in branches. </string>
+</resources>
